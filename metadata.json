@@ -1,0 +1,12 @@
+{
+  "project": {
+    "name": "EmpowerHer AI",
+    "version": "1.0",
+    "type": "AWS PartyRock Knowledge Base",
+    "description": "AI Career Coach for Women",
+    "author": "Hackathon Team",
+    "language": "English",
+    "platform": "AWS PartyRock",
+    "lastUpdated": "2026-08-07"
+  }
+}
