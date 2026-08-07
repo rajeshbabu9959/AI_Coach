@@ -1,0 +1,17 @@
+[
+  {
+    "skill": "Python",
+    "category": "Programming",
+    "difficulty": "Beginner",
+    "duration": "8 Weeks",
+    "recommendedCourse": "Python Programming",
+    "importance": 10
+  },
+  {
+    "skill": "Communication",
+    "category": "Soft Skill",
+    "difficulty": "Beginner",
+    "duration": "4 Weeks",
+    "importance": 9
+  }
+]
