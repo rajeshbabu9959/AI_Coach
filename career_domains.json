@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "career": "AI Engineer",
+    "category": "Artificial Intelligence",
+    "description": "Develops intelligent systems using machine learning and deep learning.",
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "AWS"
+    ],
+    "salaryRange": {
+      "entry": "₹6 LPA",
+      "mid": "₹15 LPA",
+      "senior": "₹35 LPA"
+    },
+    "roadmap": "Learn Python → ML → Deep Learning → AWS → Projects",
+    "womenOpportunities": true,
+    "remoteJobs": true
+  }
+]
